@@ -2,18 +2,20 @@
 
 We aspire to create a culture where people work joyfully, communicate openly about things that matter, and 
 provide great services globally. We would like our team and communities (both government and private sector)
-to reflect on diveristy of all kinds, not just the classes protected in law. Diversity fosters innovations. 
+to reflect on diveristy of all kinds, not just the classes protected in law. Diversity fosters innovation. 
 Diverse teams are creative teams. We need a diversity of perpective to create solutions for the challenges
 we face. 
     
-This is our code of conduct (adapted from [18F's Code of Conduct](https://github.com/18F/code-of-conduct)). We follow all Equal Employment Opportunity laws and we expect everyone we work with to adhere to the [GSA Anti-harrasment Policy](http://www.gsa.gov/portal/directive/d0/content/512516), even if they do not work for the Centers for Disease Control and Prevention. We expect every user to follow this code of conduct and the laws and policies mentioned above.
+This is our code of conduct (adapted from [18F's Code of Conduct](https://github.com/18F/code-of-conduct)). 
+We follow all Equal Employment Opportunity laws and we expect everyone we work with to adhere to the [GSA Anti-harrasment Policy](http://www.gsa.gov/portal/directive/d0/content/512516), even if they do not work for the Centers for Disease Control 
+and Prevention. We expect every user to follow this code of conduct and the laws and policies mentioned above.
     
 ##Be Empowering 
   
 Consider what you can do to encourage and support others. Make room for quieter voices to contribute. Offer support 
 and enthusiasm for great ideas. Leverage the low cost of experimentation to support your colleagues' ideas, and take 
 care to acknowledge the original source. Look for ways to contribute and collaborate, even in situations where you 
-normally wouldn't. Share your knowledge and skills. Prioritiza access for and input from those who are traditionally 
+normally wouldn't. Share your knowledge and skills. Prioritize access for and input from those who are traditionally 
 excluded from the civic process. 
 
 ##Boundaries 
@@ -27,6 +29,18 @@ If you are unsure if something is appropriate behavior, it probably is not. Each
 where the line is for them. Impact matters more than intent. Ensuring that your behavior does not have a negative
 impact is your responsibility. Problems usually arise when we assume that our way of thinking or behavior is the 
 norm for everyone. 
+
+##Rules of Behavior
+
+ * I understand that I must complete [security awareness](http://sat/cdc/gov/) and [records management](http://intranet.cdc.gov/ocio/cdc-policies-organization/records-management) annually in order to comply with the 
+   latest security and records management policies. 
+ * I understand that I must also follow the Rules of Behavior for use of HHS Information Resources.
+ * I understand that I must not use, share, or store any kind of sensitive data (health status, provision or payment 
+   of healthcare, PII, etc.) under ANY circumstance. 
+ * I will not knowingly conceal, falsify, or remove information. 
+ * I understand that I can only use non-sensitive and/or publicly available data. 
+ * I understand that all passwords I create to set up accounts need to comply with CDC's password policy. 
+ * I understand that the stewards reserves the right to moderate all SDP-related data at any time. 
 
 Here are some examples of unacceptable behavior: 
  * Negative or offensive remarks based on the protected classes as listed in the GSA Anti-harrasment Policy of
