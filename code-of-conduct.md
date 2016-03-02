@@ -1,54 +1,50 @@
-Creating a Culture of Innovation 
+#Creating a Culture of Innovation 
 
-    We aspire to create a culture where people work joyfully, communicate openly about things that matter, and 
-    provide great services globally. We would like our team and communities (both government and private sector)
-    to reflect on diveristy of all kinds, not just the classes protected in law. Diversity fosters innovations. 
-    Diverse teams are creative teams. We need a diversity of perpective to create solutions for the challenges
-    we face. 
+We aspire to create a culture where people work joyfully, communicate openly about things that matter, and 
+provide great services globally. We would like our team and communities (both government and private sector)
+to reflect on diveristy of all kinds, not just the classes protected in law. Diversity fosters innovations. 
+Diverse teams are creative teams. We need a diversity of perpective to create solutions for the challenges
+we face. 
     
-    This is our code of conduct (adapted from 18F's Code of Conduct). We follow all Equal Employment Opportunity laws
-    and we expect everyone we work with to adhere to the GSA Anti-harrasment Policy, even if they do not work for the 
-    General Services Administration. We expect every user to follwo this code of conduct and the laws and policies 
-    mentioned above.
+This is our code of conduct (adapted from [18F's Code of Conduct](https://github.com/18F/code-of-conduct)). We follow all Equal Employment Opportunity laws and we expect everyone we work with to adhere to the [GSA Anti-harrasment Policy](http://www.gsa.gov/portal/directive/d0/content/512516), even if they do not work for the Centers for Disease Control and Prevention. We expect every user to follow this code of conduct and the laws and policies mentioned above.
     
-Be Empowering 
+##Be Empowering 
   
-      Consider what you can do to encourage and support others. Make room for quieter voices to contribute. Offer support 
-      and enthusiasm for great ideas. Leverage the low cost of experimentation to support your colleagues' ideas, and take 
-      care to acknowledge the original source. Look for ways to contribute and collaborate, even in situations where you 
-      normally wouldn't. Share your knowledge and skills. Prioritiza access for and input from those who are traditionally 
-      excluded from the civic process. 
+Consider what you can do to encourage and support others. Make room for quieter voices to contribute. Offer support 
+and enthusiasm for great ideas. Leverage the low cost of experimentation to support your colleagues' ideas, and take 
+care to acknowledge the original source. Look for ways to contribute and collaborate, even in situations where you 
+normally wouldn't. Share your knowledge and skills. Prioritiza access for and input from those who are traditionally 
+excluded from the civic process. 
 
-Boundaries 
+##Boundaries 
 
-      Create boundaries to your own behavior and consider how you can create a safe space that helps prevent unacceptable 
-      behavior by others. We can't list all instances of unacceptable behavior, but we can provide examples to help guide 
-      our community in thinking through how to respond when we experience these types of behavior, whether directed at 
-      ourselves or others. 
+Create boundaries to your own behavior and consider how you can create a safe space that helps prevent unacceptable 
+behavior by others. We can't list all instances of unacceptable behavior, but we can provide examples to help guide 
+our community in thinking through how to respond when we experience these types of behavior, whether directed at 
+ourselves or others. 
       
-      If you are unsure if something is appropriate behavior, it probably is not. Each person we interact with can define 
-      where the line is for them. Impact matters more than intent. Ensuring that your behavior does not have a negative
-      impact is your responsibility. Problems usually arise when we assume that our way of thinking or behavior is the 
-      norm for everyone. 
-      
-      Here are some examples of unacceptable behavior: 
-          * Negative or offensive remarks based on the protected classes as listed in the GSA Anti-harrasment Policy of
-            race, religion, color, sex, national origin, age, disability, genetric information, sexual orientation, gender
-            identity, parental status, maritual status, and political affiliation as well as gender expression, mental 
-            illness, socioeconomic status or backgrounds, neuro(a)typicality, physical appearance, body size, or clothing. 
-            Consider that calling attention to differences can feel alienating. 
-          * Sustained disruption of meetings, talks, or discussions, including chatrooms. 
-          * Patronizing language or behavior.
-          * Aggresive behavior, such as unconstructive criticism, providing correction that do not improve the conversation 
-            (sometimes referred to as "well actually's), repeatedly interrupting or talking over someone else, feigning 
-            surprise at someone's lack of knowledge or awareness about a topic, or subtle prejudice. 
-          * Referring to people in a way that misidentifies their gender and/or rejects the validity of their gender 
-            identity; for instance by using incorrect pronouns or forms of address (misgendering) 
-          * Retaliating against anyone who files a formal complaint that someone has violated these codes or laws. 
+If you are unsure if something is appropriate behavior, it probably is not. Each person we interact with can define 
+where the line is for them. Impact matters more than intent. Ensuring that your behavior does not have a negative
+impact is your responsibility. Problems usually arise when we assume that our way of thinking or behavior is the 
+norm for everyone. 
 
-Credit: 
-   
-   This code of conduct was mainly adapted from 18F's Code of Conduct. 
+Here are some examples of unacceptable behavior: 
+ * Negative or offensive remarks based on the protected classes as listed in the GSA Anti-harrasment Policy of
+   race, religion, color, sex, national origin, age, disability, genetric information, sexual orientation, gender
+   identity, parental status, maritual status, and political affiliation as well as gender expression, mental 
+   illness, socioeconomic status or backgrounds, neuro(a)typicality, physical appearance, body size, or clothing. 
+   Consider that calling attention to differences can feel alienating. 
+ * Sustained disruption of meetings, talks, or discussions, including chatrooms. 
+ * Patronizing language or behavior.
+ * Aggresive behavior, such as unconstructive criticism, providing correction that do not improve the conversation 
+   (sometimes referred to as "well actually's), repeatedly interrupting or talking over someone else, feigning 
+    surprise at someone's lack of knowledge or awareness about a topic, or subtle prejudice. 
+ * Referring to people in a way that misidentifies their gender and/or rejects the validity of their gender 
+   identity; for instance by using incorrect pronouns or forms of address (misgendering) 
+ * Retaliating against anyone who files a formal complaint that someone has violated these codes or laws. 
+
+## Credit: 
+This code of conduct was mainly adapted from [18F's Code of Conduct.](https://github.com/18F/code-of-conduct)  
   
           
           
