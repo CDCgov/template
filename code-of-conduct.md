@@ -1,3 +1,19 @@
+#Background 
+
+CDC Scientific Clearance is the process of obtaining approvals by appropriate CDC officials before a CDC information product
+is released to the public or CDC's external public health partners. Information products that require formal clearance include 
+print, electronic, or oral materials, that CDC employees author or co-author, whether published by CDC or outside CDC. 
+CDC contractors developing content on behalf of CDC for the public or CDC's external public health partners are also required
+to put their content through the formal clearance process. The collaborative functions related to the projects in the R&D lab include blogs, wikis, forums, bug tracking sites, source control and others deemed as necessary. 
+
+For those individuals within the CDC, adherence to the following policies are required: 
+* CDC "Clearance of Information Products Disseminated Outside CDC for Public Use" (http://www.cdc.gov/maso/Policy/PublicUse.pdf) 
+* [HHS "Ensuring the Quality of Information Disseminated by HHS agencies"](http://aspe.hhs.gov/infoquality) 
+
+All collaborativer materials will be controlled by the rules contained within this document. This will allow for the real-time collaboration opportunities among CDC employees, CDC contractors and CDC public health partners. 
+
+(Adapted from the [CDC Informatics R&D Laboratory](www.phiresearchlab.org/?page_id=1715))
+
 #Creating a Culture of Innovation 
 
 We aspire to create a culture where people work joyfully, communicate openly about things that matter, and 
@@ -68,6 +84,8 @@ This code of conduct was mainly adapted from [18F's Code of Conduct.](https://gi
 [Types of discrimination prohibited by law](http://www.eeoc.gov/laws/types) 
 
 [New and proposed regulations](http://www.eeoc.gov/laws/regulations/index.cfm) 
+
+[Informatics R&D Laboratory](http://www.phiresearchlab.org) 
 
   
           
