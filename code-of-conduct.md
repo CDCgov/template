@@ -29,7 +29,7 @@ excluded from the civic process.
  * I will not knowingly conceal, falsify, or remove information. 
  * I understand that I can only use non-sensitive and/or publicly available data. 
  * I understand that all passwords I create to set up accounts need to comply with CDC's password policy. 
- * I understand that the stewards reserves the right to moderate all SDP-related data at any time. 
+ * I understand that the stewards reserves the right to moderate all data at any time. 
 
 ###Boundaries 
 
@@ -43,7 +43,7 @@ where the line is for them. Impact matters more than intent. Ensuring that your 
 is your responsibility. Problems usually arise when we assume that our way of thinking or behavior is the norm for everyone. 
     
 
-Here are some examples of unacceptable behavior: 
+####Here are some examples of unacceptable behavior: 
  * Negative or offensive remarks based on the protected classes as listed in the GSA Anti-harrasment Policy of
    race, religion, color, sex, national origin, age, disability, genetric information, sexual orientation, gender
    identity, parental status, maritual status, and political affiliation as well as gender expression, mental 
@@ -64,7 +64,9 @@ This code of conduct was mainly adapted from [18F's Code of Conduct.](https://gi
 ##Relevant Legal Considerations: 
 
 [Laws enforced by the Equal Employment Opportunity Commission](http://www.eeoc.gov/laws/statutes/index.cfm) 
+
 [Types of discrimination prohibited by law](http://www.eeoc.gov/laws/types) 
+
 [New and proposed regulations](http://www.eeoc.gov/laws/regulations/index.cfm) 
 
   
