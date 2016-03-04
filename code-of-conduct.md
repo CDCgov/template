@@ -18,29 +18,30 @@ care to acknowledge the original source. Look for ways to contribute and collabo
 normally wouldn't. Share your knowledge and skills. Prioritize access for and input from those who are traditionally 
 excluded from the civic process. 
 
-##Boundaries 
-
-Create boundaries to your own behavior and consider how you can create a safe space that helps prevent unacceptable 
-behavior by others. We can't list all instances of unacceptable behavior, but we can provide examples to help guide 
-our community in thinking through how to respond when we experience these types of behavior, whether directed at 
-ourselves or others. 
-      
-If you are unsure if something is appropriate behavior, it probably is not. Each person we interact with can define 
-where the line is for them. Impact matters more than intent. Ensuring that your behavior does not have a negative
-impact is your responsibility. Problems usually arise when we assume that our way of thinking or behavior is the 
-norm for everyone. 
 
 ##Rules of Behavior
 
- * I understand that I must complete security awareness and records management](http://intranet.cdc.gov/ocio/cdc-policies-organization/records-management) annually in order to comply with the 
+ * I understand that I must complete security awareness and records management annually in order to comply with the 
    latest security and records management policies. 
- * I understand that I must also follow the Rules of Behavior for use of HHS Information Resources.
+ * I understand that I must also follow the [Rules of Behavior for use of HHS Information Resources](http://www.hhs.gov/ocio/policy/hhs-rob.html) 
  * I understand that I must not use, share, or store any kind of sensitive data (health status, provision or payment 
    of healthcare, PII, etc.) under ANY circumstance. 
  * I will not knowingly conceal, falsify, or remove information. 
  * I understand that I can only use non-sensitive and/or publicly available data. 
  * I understand that all passwords I create to set up accounts need to comply with CDC's password policy. 
  * I understand that the stewards reserves the right to moderate all SDP-related data at any time. 
+
+###Boundaries 
+
+Create boundaries to your own behavior and consider how you can create a safe space that helps prevent unacceptable
+behavior by others. We can't list all instances of unacceptable behavior, but we can provide examples to help guide 
+our community in thinking through how to respond when we experience these types of behavior, whether directed at 
+ourselves or others 
+
+If you are unsure if something is appropriate behavior, it probably is not. Each person we interact with can define
+where the line is for them. Impact matters more than intent. Ensuring that your behavior does not have a negative impact
+is your responsibility. Problems usually arise when we assume that our way of thinking or behavior is the norm for everyone. 
+    
 
 Here are some examples of unacceptable behavior: 
  * Negative or offensive remarks based on the protected classes as listed in the GSA Anti-harrasment Policy of
@@ -59,6 +60,13 @@ Here are some examples of unacceptable behavior:
 
 ## Credit: 
 This code of conduct was mainly adapted from [18F's Code of Conduct.](https://github.com/18F/code-of-conduct)  
+
+##Relevant Legal Considerations: 
+
+[Laws enforced by the Equal Employment Opportunity Commission](http://www.eeoc.gov/laws/statutes/index.cfm) 
+[Types of discrimination prohibited by law](http://www.eeoc.gov/laws/types) 
+[New and proposed regulations](http://www.eeoc.gov/laws/regulations/index.cfm) 
+
   
           
           
