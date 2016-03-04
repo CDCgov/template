@@ -8,7 +8,7 @@ we face.
     
 This is our code of conduct (adapted from [18F's Code of Conduct](https://github.com/18F/code-of-conduct)). 
 We follow all Equal Employment Opportunity laws and we expect everyone we work with to adhere to the [GSA Anti-harrasment Policy](http://www.gsa.gov/portal/directive/d0/content/512516), even if they do not work for the Centers for Disease Control 
-and Prevention. We expect every user to follow this code of conduct and the laws and policies mentioned above.
+and Prevention or GSA. We expect every user to follow this code of conduct and the laws and policies mentioned above.
     
 ##Be Empowering 
   
@@ -32,7 +32,7 @@ norm for everyone.
 
 ##Rules of Behavior
 
- * I understand that I must complete [security awareness](http://sat/cdc/gov/) and [records management](http://intranet.cdc.gov/ocio/cdc-policies-organization/records-management) annually in order to comply with the 
+ * I understand that I must complete security awareness and records management](http://intranet.cdc.gov/ocio/cdc-policies-organization/records-management) annually in order to comply with the 
    latest security and records management policies. 
  * I understand that I must also follow the Rules of Behavior for use of HHS Information Resources.
  * I understand that I must not use, share, or store any kind of sensitive data (health status, provision or payment 
