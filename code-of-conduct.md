@@ -1,19 +1,3 @@
-#Background 
-
-CDC Scientific Clearance is the process of obtaining approvals by appropriate CDC officials before a CDC information product
-is released to the public or CDC's external public health partners. Information products that require formal clearance include 
-print, electronic, or oral materials, that CDC employees author or co-author, whether published by CDC or outside CDC. 
-CDC contractors developing content on behalf of CDC for the public or CDC's external public health partners are also required
-to put their content through the formal clearance process. The collaborative functions related to the projects in the R&D lab include blogs, wikis, forums, bug tracking sites, source control and others deemed as necessary. 
-
-For those individuals within the CDC, adherence to the following policies are required: 
-* CDC "Clearance of Information Products Disseminated Outside CDC for Public Use" (http://www.cdc.gov/maso/Policy/PublicUse.pdf) 
-* [HHS "Ensuring the Quality of Information Disseminated by HHS agencies"](http://aspe.hhs.gov/infoquality) 
-
-All collaborativer materials will be controlled by the rules contained within this document. This will allow for the real-time collaboration opportunities among CDC employees, CDC contractors and CDC public health partners. 
-
-(Adapted from the [CDC Informatics R&D Laboratory](www.phiresearchlab.org/?page_id=1715))
-
 #Creating a Culture of Innovation 
 
 We aspire to create a culture where people work joyfully, communicate openly about things that matter, and 
@@ -37,7 +21,7 @@ excluded from the civic process.
 
 ##Rules of Behavior
 
- * I understand that I must complete security awareness and records management annually in order to comply with the 
+ * I understand that I must complete security awareness and records management training annually in order to comply with the 
    latest security and records management policies. 
  * I understand that I must also follow the [Rules of Behavior for use of HHS Information Resources](http://www.hhs.gov/ocio/policy/hhs-rob.html) 
  * I understand that I must not use, share, or store any kind of sensitive data (health status, provision or payment 
@@ -47,7 +31,7 @@ excluded from the civic process.
  * I understand that all passwords I create to set up accounts need to comply with CDC's password policy. 
  * I understand that the stewards reserves the right to moderate all data at any time. 
 
-###Boundaries 
+##Boundaries 
 
 Create boundaries to your own behavior and consider how you can create a safe space that helps prevent unacceptable
 behavior by others. We can't list all instances of unacceptable behavior, but we can provide examples to help guide 
@@ -59,7 +43,7 @@ where the line is for them. Impact matters more than intent. Ensuring that your 
 is your responsibility. Problems usually arise when we assume that our way of thinking or behavior is the norm for everyone. 
     
 
-####Here are some examples of unacceptable behavior: 
+###Here are some examples of unacceptable behavior: 
  * Negative or offensive remarks based on the protected classes as listed in the GSA Anti-harrasment Policy of
    race, religion, color, sex, national origin, age, disability, genetric information, sexual orientation, gender
    identity, parental status, maritual status, and political affiliation as well as gender expression, mental 
@@ -73,9 +57,23 @@ is your responsibility. Problems usually arise when we assume that our way of th
  * Referring to people in a way that misidentifies their gender and/or rejects the validity of their gender 
    identity; for instance by using incorrect pronouns or forms of address (misgendering) 
  * Retaliating against anyone who files a formal complaint that someone has violated these codes or laws. 
+ 
+##Background 
+CDC Scientific Clearance is the process of obtaining approvals by appropriate CDC officials before a CDC information product
+is released to the public or CDC's external public health partners. Information products that require formal clearance include 
+print, electronic, or oral materials, that CDC employees author or co-author, whether published by CDC or outside CDC. 
+CDC contractors developing content on behalf of CDC for the public or CDC's external public health partners are also required
+to put their content through the formal clearance process. The collaborative functions related to the projects in the R&D lab include blogs, wikis, forums, bug tracking sites, source control and others deemed as necessary. 
+
+For those individuals within the CDC, adherence to the following policies are required: 
+* CDC ["Clearance of Information Products Disseminated Outside CDC for Public Use"](http://www.cdc.gov/maso/Policy/PublicUse.pdf) 
+* [HHS "Ensuring the Quality of Information Disseminated by HHS agencies"](http://aspe.hhs.gov/infoquality) 
+
+All collaborativer materials will be controlled by the rules contained within this document. This will allow for the real-time collaboration opportunities among CDC employees, CDC contractors and CDC public health partners. 
+
 
 ## Credit: 
-This code of conduct was mainly adapted from [18F's Code of Conduct.](https://github.com/18F/code-of-conduct)  
+This code of conduct was mainly adapted from [18F's Code of Conduct](https://github.com/18F/code-of-conduct) and the [CDC's Informatics Innovation Unit R&D Lab's code of conduct.](http://www.phiresearchlab.org/?page_id=1715)
 
 ##Relevant Legal Considerations: 
 
@@ -85,7 +83,6 @@ This code of conduct was mainly adapted from [18F's Code of Conduct.](https://gi
 
 [New and proposed regulations](http://www.eeoc.gov/laws/regulations/index.cfm) 
 
-[Informatics R&D Laboratory](http://www.phiresearchlab.org) 
 
   
           
