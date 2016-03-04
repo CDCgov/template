@@ -3,9 +3,14 @@ This Github organization was created for use by [CDC](http://www.cdc.gov) progra
 
 This repository serves as a template for other repositories to follow in order to provide the appropriate notices for users in regards to privacy protection, contribution, licensing, copyright, records management and collaboration.
 
-##License
-This project constitutes a work of the United States Government and is not subject to domestic copyright protection under 17 USC § 105.
 
+##Public Domain: 
+This project constitutes a work of the United States Government and is not subject to domestic copyright protection under 17 USC § 105. This project is in the public domain within the United States, and copyright and related rights in 
+the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/). All contributions 
+to this project will be released under the CC0 dedication. By submitting a pull request you are agreeing 
+to comply with this waiver of copyright interest. 
+
+##License
 The project utilizes code licensed under the terms of the Apache Software License and therefore is licensed under ASL v2 or later.
 
 This program is free software: you can redistribute it and/or modify it under the terms of the Apache Software License version 2, or (at your option) any later version.
