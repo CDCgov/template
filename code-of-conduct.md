@@ -80,8 +80,8 @@ clearance include print, electronic, or oral materials, that CDC employees
 author or co-author, whether published by CDC or outside CDC. CDC contractors
 developing content on behalf of CDC for the public or CDC's external public
 health partners are also required to put their content through the formal
-clearance process. The collaborative functions related to the projects in the
-R&D lab include blogs, wikis, forums, bug tracking sites, source control and
+clearance process. The collaborative functions related to the projects include
+blogs, wikis, forums, bug tracking sites, source control and
 others deemed as necessary.
 
 For those individuals within the CDC, adherence to the following policies are
