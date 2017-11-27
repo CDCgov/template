@@ -8,7 +8,7 @@ Before contributing, we encourage you to also read or [LICENSE](https://github.c
 [README](https://github.com/CDCgov/template/blob/master/README.md), and
 [code-of-conduct](https://github.com/CDCgov/template/blob/master/code-of-conduct.md)
 files, also found in this repository. If you have any inquiries or questions not
-answered by the content of this repository, feel free to [contact us](mailto:chiic@cdc.gov).
+answered by the content of this repository, feel free to [contact us](mailto:surveillanceplatform@cdc.gov).
 
 ## Public Domain
 This project is in the public domain within the United States, and copyright and
