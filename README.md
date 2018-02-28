@@ -1,7 +1,7 @@
-# Repository Name
+# <Place holder for Repository Name>
 This repository was created for use by CDC programs to collaborate on public health surveillance related projects in support of the CDC Surveillance Strategy.  Github is not hosted by the CDC, but is used by CDC and its partners to share information and collaborate on software.
 
-## Place holder for this repository specific information
+## <This repository specific READ ME instructions go here>
   
 ## Public Domain
 This repository constitutes a work of the United States Government and is not
@@ -16,16 +16,19 @@ copyright interest.
 The repository utilizes code licensed under the terms of the Apache Software
 License and therefore is licensed under ASL v2 or later.
 
-This program is free software: you can redistribute it and/or modify it under
+This source code in this repository is free: you can redistribute it and/or modify it under
 the terms of the Apache Software License version 2, or (at your option) any
 later version.
 
-This program is distributed in the hope that it will be useful, but WITHOUT ANY
+This soruce code in this repository is distributed in the hope that it will be useful, but WITHOUT ANY
 WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 PARTICULAR PURPOSE. See the Apache Software License for more details.
 
 You should have received a copy of the Apache Software License along with this
 program. If not, see http://www.apache.org/licenses/LICENSE-2.0.html
+
+The source code forked from other open source projects will inherit its license.
+
 
 ## Privacy
 This repository contains only non-sensitive, publicly available data and
