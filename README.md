@@ -1,7 +1,11 @@
 # Place holder for Repository Name
 This repository was created for use by CDC programs to collaborate on public health surveillance related projects in support of the CDC Surveillance Strategy.  Github is not hosted by the CDC, but is used by CDC and its partners to share information and collaborate on software.
 
-## This repository specific READ ME instructions go here
+## -----Replace me --------------
+### This repository specific READ ME instructions go here
+
+Replace everything within this section demarcated with “------“ with material appropriate about your repo that is useful to your developers and users like installation steps, user guide etc.
+## ------ Stop replacing me -----
   
 ## Public Domain
 This repository constitutes a work of the United States Government and is not
@@ -61,9 +65,16 @@ for more information about [contributing to this repository](https://github.com/
 [public domain notices and disclaimers](https://github.com/CDCgov/template/blob/master/DISCLAIMER.md),
 and [code of conduct](https://github.com/CDCgov/template/blob/master/code-of-conduct.md).
 
+## ------- delete me -------
+New repositories should include this template as a starting point to include all required notices for CDC use of third part web applications like GitHub.
+ 
+Delete everything within this section demarcated with “------“ with material appropriate for your repo that is useful to your developers and users.
 ## Hat-tips
 Thanks to [18F](https://18f.gsa.gov/)'s [open source policy](https://github.com/18F/open-source-policy)
 and [code of conduct](https://github.com/CDCgov/code-of-conduct/blob/master/code-of-conduct.md)
 that were very useful in setting up this GitHub organization. Thanks to CDC's
 [Informatics Innovation Unit](https://www.phiresearchlab.org/index.php/code-of-conduct/)
 that was helpful in modeling the code of conduct.
+
+## ------- stop deleting me -----
+
