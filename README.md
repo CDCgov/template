@@ -24,7 +24,7 @@ This source code in this repository is free: you can redistribute it and/or modi
 the terms of the Apache Software License version 2, or (at your option) any
 later version.
 
-This soruce code in this repository is distributed in the hope that it will be useful, but WITHOUT ANY
+This source code in this repository is distributed in the hope that it will be useful, but WITHOUT ANY
 WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 PARTICULAR PURPOSE. See the Apache Software License for more details.
 
