@@ -1,11 +1,11 @@
 # Place holder for Repository Name
-This repository was created for use by CDC programs to collaborate on public health surveillance related projects in support of the CDC Surveillance Strategy.  Github is not hosted by the CDC, but is used by CDC and its partners to share information and collaborate on software.
+This repository was created for use by CDC programs to collaborate on public health related projects in support of the [CDC mission](https://www.cdc.gov/about/organization/mission.htm).  Github is not hosted by the CDC, but is a third party website used by CDC and its partners to share information and collaborate on software.
 
-## ----- Start of respository specific READ ME -----
+## ----- Start of respository specific README -----
 ### This repository specific READ ME instructions go here
 
 Replace everything within this section demarcated with “-----“ with material appropriate to your repo that is useful to your developers and users like installation steps, user guide etc.
-## ----- End of respository specific READ ME -----
+## ----- End of respository specific README -----
   
 ## Public Domain
 This repository constitutes a work of the United States Government and is not
@@ -33,11 +33,10 @@ program. If not, see http://www.apache.org/licenses/LICENSE-2.0.html
 
 The source code forked from other open source projects will inherit its license.
 
-
 ## Privacy
 This repository contains only non-sensitive, publicly available data and
 information. All material and community participation is covered by the
-Surveillance Platform [Disclaimer](https://github.com/CDCgov/template/blob/master/DISCLAIMER.md)
+[Disclaimer](https://github.com/CDCgov/template/blob/master/DISCLAIMER.md)
 and [Code of Conduct](https://github.com/CDCgov/template/blob/master/code-of-conduct.md).
 For more information about CDC's privacy policy, please visit [http://www.cdc.gov/privacy.html](http://www.cdc.gov/privacy.html).
 
@@ -70,7 +69,7 @@ and [code of conduct](https://github.com/CDCgov/template/blob/master/code-of-con
 Thanks to [18F](https://18f.gsa.gov/)'s [open source policy](https://github.com/18F/open-source-policy)
 and [code of conduct](https://github.com/CDCgov/code-of-conduct/blob/master/code-of-conduct.md)
 that were very useful in setting up this GitHub organization. Thanks to CDC's
-[Informatics Innovation Unit](https://www.phiresearchlab.org/index.php/code-of-conduct/)
+[Informatics Innovation Unit](https://www.philab.cdc.gov/index.php/code-of-conduct/)
 that was helpful in modeling the code of conduct.
 
 ## ----- for use in template only -----
