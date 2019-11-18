@@ -1,13 +1,16 @@
-# Place holder for Repository Name
-This repository was created for use by CDC programs to collaborate on public health related projects in support of the [CDC mission](https://www.cdc.gov/about/organization/mission.htm).  Github is not hosted by the CDC, but is a third party website used by CDC and its partners to share information and collaborate on software.
+# Repository Name
 
-## ----- Start of respository specific README -----
-### This repository specific READ ME instructions go here
+**Template for clearance: This project serves as a template to aid projects in starting up and moving through clearance procedures. To start, fork this repository, remove this line, keep everything below as a starter and update as necessary.**
 
-Replace everything within this section demarcated with “-----“ with material appropriate to your repo that is useful to your developers and users like installation steps, user guide etc.
-## ----- End of respository specific README -----
+**As a first step, this document is under governance review. When the review completes as appropriate per local and agency processes, the project team will be allowed to remove this notice. This material is draft.**
+
+**General disclaimer** This repository was created for use by CDC programs to collaborate on public health related projects in support of the [CDC mission](https://www.cdc.gov/about/organization/mission.htm).  Github is not hosted by the CDC, but is a third party website used by CDC and its partners to share information and collaborate on software.
+
+## Overview
+
+Describe the purpose of your project. Add additional sections as necessary to help collaborators and potential collaborators understand and use your project.
   
-## Public Domain
+## Public Domain Standard Notice
 This repository constitutes a work of the United States Government and is not
 subject to domestic copyright protection under 17 USC § 105. This repository is in
 the public domain within the United States, and copyright and related rights in
@@ -16,7 +19,7 @@ All contributions to this repository will be released under the CC0 dedication. 
 submitting a pull request you are agreeing to comply with this waiver of
 copyright interest.
 
-## License
+## License Standard Notice
 The repository utilizes code licensed under the terms of the Apache Software
 License and therefore is licensed under ASL v2 or later.
 
@@ -33,14 +36,14 @@ program. If not, see http://www.apache.org/licenses/LICENSE-2.0.html
 
 The source code forked from other open source projects will inherit its license.
 
-## Privacy
+## Privacy Standard Notice
 This repository contains only non-sensitive, publicly available data and
 information. All material and community participation is covered by the
 [Disclaimer](https://github.com/CDCgov/template/blob/master/DISCLAIMER.md)
 and [Code of Conduct](https://github.com/CDCgov/template/blob/master/code-of-conduct.md).
 For more information about CDC's privacy policy, please visit [http://www.cdc.gov/privacy.html](http://www.cdc.gov/privacy.html).
 
-## Contributing
+## Contributing Standard Notice
 Anyone is encouraged to contribute to the repository by [forking](https://help.github.com/articles/fork-a-repo)
 and submitting a pull request. (If you are new to GitHub, you might start with a
 [basic tutorial](https://help.github.com/articles/set-up-git).) By contributing
@@ -53,24 +56,13 @@ All comments, messages, pull requests, and other submissions received through
 CDC including this GitHub page are subject to the [Presidential Records Act](http://www.archives.gov/about/laws/presidential-records.html)
 and may be archived. Learn more at [http://www.cdc.gov/other/privacy.html](http://www.cdc.gov/other/privacy.html).
 
-## Records
+## Records Management Standard Notice
 This repository is not a source of government records, but is a copy to increase
 collaboration and collaborative potential. All government records will be
 published through the [CDC web site](http://www.cdc.gov).
 
-## Notices
+## Additional Standard Notices
 Please refer to [CDC's Template Repository](https://github.com/CDCgov/template)
 for more information about [contributing to this repository](https://github.com/CDCgov/template/blob/master/CONTRIBUTING.md),
 [public domain notices and disclaimers](https://github.com/CDCgov/template/blob/master/DISCLAIMER.md),
 and [code of conduct](https://github.com/CDCgov/template/blob/master/code-of-conduct.md).
-
-## ----- for use in template only -----
-## Hat-tips
-Thanks to [18F](https://18f.gsa.gov/)'s [open source policy](https://github.com/18F/open-source-policy)
-and [code of conduct](https://github.com/CDCgov/code-of-conduct/blob/master/code-of-conduct.md)
-that were very useful in setting up this GitHub organization. Thanks to CDC's
-[Informatics Innovation Unit](https://www.philab.cdc.gov/index.php/code-of-conduct/)
-that was helpful in modeling the code of conduct.
-
-## ----- for use in template only -----
-
