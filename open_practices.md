@@ -51,6 +51,9 @@ If you are interested in using GitHub for non-open source projects, please check
 * Follow [Semantic Versioning 2.0.0](https://semver.org/) when creating versions for your project.
 * Describe and test reproducible practices to install and build your project. For example, [injury_autocoding's code section on running the project's scripts](https://github.com/cdcai/injury_autocoding#code)).
 * Recognize contributors and existing resources that have helped the project. For example, [fdns-ms-hl7-utils' AUTHORS file](https://github.com/CDCgov/fdns-ms-hl7-utils/blob/master/AUTHORS).
+* Automate build and test procedures to reduce the effort of outside contributors to send pull requests (eg, [Travis CI](https://travis-ci.org/), [Circle CI](https://circleci.com/), [GitHub Actions](https://help.github.com/en/actions))
+* [Appropriately gather metrics](https://opensource.guide/metrics/) on how your project is used and incorporate this into your feature planning process.
+* [Incorporate documentation into your development cycle](https://github.com/GSA/code-gov-open-source-toolkit/blob/master/toolkit_docs/documentation.md), and where possible, automate the generation of documentation so it is more likely to be up to date and useful to people interested in your project.
 
 ## Open Source Checklist
 
@@ -74,8 +77,13 @@ We welcome any feedback and ideas for how to make these practices more useful. [
 
 Many existing projects and resources helped us create this set of practices.
 
-* <https://cfpb.github.io/>
-* <https://engineering.18f.gov/>
-* <https://github.com/18F/open-source-policy>
-* <https://government.github.com/>
-* <https://code.gov>
+* [CFPB Open Tech](https://cfpb.github.io/)
+* [TTS Engineering Practices Guide](https://engineering.18f.gov/)
+* [18F Open Source Policy](https://github.com/18F/open-source-policy) and [Practicing our open source policy](https://github.com/18F/open-source-policy/blob/master/practice.md)
+* [GitHun and Government: How agencies build software](https://government.github.com/)
+* [code.gov](https://code.gov)
+* [Federal Source Code and Open Source Toolkit](https://github.com/GSA/code-gov-open-source-toolkit)
+* [Federal Source Code Policy (M-16-21)](https://sourcecode.cio.gov/)
+* [openCDC](https://open.cdc.gov)
+* [CDC/ATSDR Policy on Releasing and Sharing Data](https://www.cdc.gov/maso/Policy/ReleasingData.pdf)
+* [Digital Services Playbook](https://playbook.cio.gov/)

@@ -67,6 +67,6 @@ Users looking to use GitHub  that are unable to follow these rules of behavior w
 
 ## References
 
-* Policy for Managing the Use of Third-Party Websites and Applications <http://www.hhs.gov/ocio/policy/policy2013_0001.html>
-* Rules of Behavior for Use of HHS Information Resources <http://www.hhs.gov/ocio/policy/hhs-rob.html>
-* Security and Awareness Training <http://sat.cdc.gov/>
+* [Policy for Managing the Use of Third-Party Websites and Applications](http://www.hhs.gov/ocio/policy/policy2013_0001.html)
+* [Rules of Behavior for Use of HHS Information Resources](http://www.hhs.gov/ocio/policy/hhs-rob.html)
+* [Security and Awareness Training](http://sat.cdc.gov/)
