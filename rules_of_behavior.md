@@ -1,8 +1,8 @@
-# Rules of Behavior and Posting Guidelines for the Use of GitHub as a Third-Party Web Application - DRAFT
+# Rules of Behavior and Posting Guidelines for the Use of GitHub as a Third-Party Web Application
 
 ## Purpose
 
-These rules of behavior establish the privacy and information security requirements for the use of Third Party Web Applications (TPWAs) in conjunction with the CDC's GitHub.com organizations established for open source projects. These rules of behavior were developed to ensure that CDC and its confidential information and technologies are not compromised, as well as protecting general CDC interests and services from risks associated with the use of TPWAs while allowing for the increased efficiencies and cost savings that come with appropriate use of third party services.
+These rules of behavior establish the privacy and information security requirements for the use of Third Party Web Applications (TPWAs) in conjunction with the CDC GitHub.com organizations established for open source projects. These rules of behavior were developed to ensure that CDC and its confidential information and technologies are not compromised, as well as protecting general CDC interests and services from risks associated with the use of TPWAs while allowing for the increased efficiencies and cost savings that come with appropriate use of third party services.
 
 ## Scope
 

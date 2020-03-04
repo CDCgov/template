@@ -1,4 +1,4 @@
-# CDC GitHub Practices for Open Source Projects - DRAFT
+# CDC GitHub Practices for Open Source Projects
 
 The CDCGov organization on GitHub is designed for use by CDC programs to collaborate with open communities further CDC mission to protect America from health, safety and security threats, both foreign and in the U.S.
 
@@ -24,7 +24,7 @@ If you are interested in using GitHub for non-open source projects, please check
 
 ## Required Practices
 
-* Obtain clearance from your organization prior to setting up and publishing a repository.
+* Obtain clearance from your organization prior to setting up and publishing a repository. Until you have completed clearance, include clear language in your repo indicating the current status, something like "**As a first step, this document is under governance review. When the review completes as appropriate per local and agency processes, the project team will be allowed to remove this notice. This material is draft.**" 
 * Set a meaningful project name, description, and topics to improve discovery and use of your project.
 * Add a readme.md file at the root with a description of your project, the team responsible for the project. This should help users understand how to setup and use your project.
 * Assign an open source license based on program need. For guidance on licenses, please review the article,  ["Open Source Development for Public Health Informatics"](https://www.philab.cdc.gov/index.php/2012/03/27/open-source-development-for-public-health-informatics/), refer to existing CDCgov projects, or ask for consultation support in choosing a license.
@@ -52,6 +52,7 @@ If you are interested in using GitHub for non-open source projects, please check
 * Describe and test reproducible practices to install and build your project. For example, [injury_autocoding's code section on running the project's scripts](https://github.com/cdcai/injury_autocoding#code)).
 * Recognize contributors and existing resources that have helped the project. For example, [fdns-ms-hl7-utils' AUTHORS file](https://github.com/CDCgov/fdns-ms-hl7-utils/blob/master/AUTHORS).
 * Automate build and test procedures to reduce the effort of outside contributors to send pull requests (eg, [Travis CI](https://travis-ci.org/), [Circle CI](https://circleci.com/), [GitHub Actions](https://help.github.com/en/actions))
+* Establish pull request templates to make it easier for contributors to send pull requests. For example [SDP-V has a checklist for each PR to match their development practices.](https://github.com/CDCgov/SDP-Vocabulary-Service/blob/master/.github/PULL_REQUEST_TEMPLATE)
 * [Appropriately gather metrics](https://opensource.guide/metrics/) on how your project is used and incorporate this into your feature planning process.
 * [Incorporate documentation into your development cycle](https://github.com/GSA/code-gov-open-source-toolkit/blob/master/toolkit_docs/documentation.md), and where possible, automate the generation of documentation so it is more likely to be up to date and useful to people interested in your project.
 
