@@ -25,7 +25,7 @@ If you are interested in using GitHub for non-open source projects, please check
 ## Required Practices
 
 * Obtain clearance from your organization prior to setting up and publishing a repository. Until you have completed clearance, include clear language in your repo indicating the current status, something like "**As a first step, this document is under governance review. When the review completes as appropriate per local and agency processes, the project team will be allowed to remove this notice. This material is draft.**" 
-* Set a meaningful project name, description, and topics to improve discovery and use of your project.
+* Set a meaningful project name, description, and topics to improve discovery and use of your project. For AI-related projects, the [Code.gov Implementation Guidance to Federal Agencies Regarding Enterprise Data and Source Code Inventories](https://code.gov/assets/data/ai_inventory-guidance.pdf) must be followed when setting topics.
 * Add a readme.md file at the root with a description of your project, the team responsible for the project. This should help users understand how to setup and use your project.
 * Assign an open source license based on program need. For guidance on licenses, please review the article,  ["Open Source Development for Public Health Informatics"](https://www.philab.cdc.gov/index.php/2012/03/27/open-source-development-for-public-health-informatics/), refer to existing CDCgov projects, or ask for consultation support in choosing a license.
 * Include the required notice sections in your readme.md to comply with relevant CDC policies and procedures, adapt as necessary based on your program need.
