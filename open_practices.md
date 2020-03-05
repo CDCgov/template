@@ -39,6 +39,7 @@ If you are interested in using GitHub for non-open source projects, please check
 * If active, configure [GitHub automated security alerts](https://help.github.com/en/github/managing-security-vulnerabilities/about-security-alerts-for-vulnerable-dependencies) and respond to them in a timely manner. Projects that do not respond to security alerts will have issues raised in their project by admins.
 * Never commit sensitive information, including usernames, passwords, tokens, PII, PHI. Use pre-commit tools like [Clouseau](https://github.com/cfpb/clouseau) to systematically review material before committing.
 * Enable [GitHub Automated security alerts](https://help.github.com/en/github/managing-security-vulnerabilities/configuring-automated-security-updates) and configuring notification for the repo admin to see and respond to these alerts.
+* Enable issues to allow for administrative and automated issues related to their project.
 * Respond to issues and PRs created by admins in a timely manner. Ignored issues on your project will result in archiving or deletion.
 
 ## Recommended Practices
