@@ -33,7 +33,7 @@ If you are interested in using GitHub for non-open source projects, please check
   * [License Standard Notice](https://github.com/CDCgov/template#license-standard-notice)
   * [Privacy Standard Notice](https://github.com/CDCgov/template#privacy-standard-notice)
   * [Contributing Standard Notice](https://github.com/CDCgov/template#contributing-standard-notice)
-  * [Records Managing Standard Notice](https://github.com/CDCgov/template#records-management-standard-notice)
+  * [Records Management Standard Notice](https://github.com/CDCgov/template#records-management-standard-notice)
   * [Additional Standard Notices](https://github.com/CDCgov/template#additional-standard-notices)
 * Include a description of your development process in the readme.md file, if your project is not active, mark it as archived to help users understand that it is not an active project.
 * If active, configure [GitHub automated security alerts](https://help.github.com/en/github/managing-security-vulnerabilities/about-security-alerts-for-vulnerable-dependencies) and respond to them in a timely manner. Projects that do not respond to security alerts will have issues raised in their project by admins.
