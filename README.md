@@ -4,6 +4,10 @@
 
 **General disclaimer** This repository was created for use by CDC programs to collaborate on public health related projects in support of the [CDC mission](https://www.cdc.gov/about/organization/mission.htm).  Github is not hosted by the CDC, but is a third party website used by CDC and its partners to share information and collaborate on software.
 
+## Access Request, Repo Creation Request
+
+* [CDC GitHub Open Project Request Form](https://forms.office.com/Pages/ResponsePage.aspx?id=aQjnnNtg_USr6NJ2cHf8j44WSiOI6uNOvdWse4I-C2NUNk43NzMwODJTRzA4NFpCUk1RRU83RTFNVi4u) _[Requires a CDC Office365 login, if you do not have a CDC Office365 please ask a friend who does to submit the request on your behalf]_
+
 ## Related documents
 
 * [Open Practices](open_practices.md)
@@ -48,7 +52,7 @@ This repository contains only non-sensitive, publicly available data and
 information. All material and community participation is covered by the
 [Disclaimer](https://github.com/CDCgov/template/blob/master/DISCLAIMER.md)
 and [Code of Conduct](https://github.com/CDCgov/template/blob/master/code-of-conduct.md).
-For more information about CDC's privacy policy, please visit [http://www.cdc.gov/privacy.html](http://www.cdc.gov/privacy.html).
+For more information about CDC's privacy policy, please visit [http://www.cdc.gov/other/privacy.html](https://www.cdc.gov/other/privacy.html).
 
 ## Contributing Standard Notice
 Anyone is encouraged to contribute to the repository by [forking](https://help.github.com/articles/fork-a-repo)
