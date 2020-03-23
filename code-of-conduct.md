@@ -95,7 +95,7 @@ among CDC employees, CDC contractors and CDC public health partners.
 
 ## Credit
 This code of conduct was mainly adapted from [18F's Code of Conduct](https://github.com/18F/code-of-conduct)
-and the [CDC's Informatics Innovation Unit R&D Lab's code of conduct.](http://www.phiresearchlab.org/?page_id=1715)
+and the [CDC's Informatics Innovation Unit R&D Lab's code of conduct.](https://www.philab.cdc.gov/index.php/code-of-conduct/)
 
 ## Relevant Legal Considerations
 * [Laws enforced by the Equal Employment Opportunity Commission](http://www.eeoc.gov/laws/statutes/index.cfm)
