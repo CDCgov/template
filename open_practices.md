@@ -24,38 +24,37 @@ If you are interested in using GitHub for non-open source projects, please check
 
 ## Required Practices
 
-* Obtain clearance from your organization prior to setting up and publishing a repository. Until you have completed clearance, include clear language in your repo indicating the current status, something like "**As a first step, this document is under governance review. When the review completes as appropriate per local and agency processes, the project team will be allowed to remove this notice. This material is draft.**" 
-* Set a meaningful project name, description, and topics to improve discovery and use of your project. For AI-related projects, the [Code.gov Implementation Guidance to Federal Agencies Regarding Enterprise Data and Source Code Inventories](https://code.gov/assets/data/ai_inventory-guidance.pdf) must be followed when setting topics.
-* Add a readme.md file at the root with a description of your project, the team responsible for the project. This should help users understand how to setup and use your project.
-* Assign an open source license based on program need. For guidance on licenses, please review the article,  ["Open Source Development for Public Health Informatics"](https://www.philab.cdc.gov/index.php/2012/03/27/open-source-development-for-public-health-informatics/), refer to existing CDCgov projects, or ask for consultation support in choosing a license.
-* Include the required notice sections in your readme.md to comply with relevant CDC policies and procedures, adapt as necessary based on your program need.
-  * [Public Domain Standard Notice](https://github.com/CDCgov/template#public-domain-standard-notice)
-  * [License Standard Notice](https://github.com/CDCgov/template#license-standard-notice)
-  * [Privacy Standard Notice](https://github.com/CDCgov/template#privacy-standard-notice)
-  * [Contributing Standard Notice](https://github.com/CDCgov/template#contributing-standard-notice)
-  * [Records Management Standard Notice](https://github.com/CDCgov/template#records-management-standard-notice)
-  * [Additional Standard Notices](https://github.com/CDCgov/template#additional-standard-notices)
-* Include a description of your development process in the readme.md file, if your project is not active, mark it as archived to help users understand that it is not an active project.
-* If active, configure [GitHub automated security alerts](https://help.github.com/en/github/managing-security-vulnerabilities/about-security-alerts-for-vulnerable-dependencies) and respond to them in a timely manner. Projects that do not respond to security alerts will have issues raised in their project by admins.
-* Never commit sensitive information, including usernames, passwords, tokens, PII, PHI. Use pre-commit tools like [Clouseau](https://github.com/cfpb/clouseau) to systematically review material before committing.
-* Enable [GitHub Automated security alerts](https://help.github.com/en/github/managing-security-vulnerabilities/configuring-automated-security-updates) and configuring notification for the repo admin to see and respond to these alerts.
-* Enable issues to allow for administrative and automated issues related to their project.
-* Respond to issues and PRs created by admins in a timely manner. Ignored issues on your project will result in archiving or deletion.
+* [ ] Obtain clearance from your organization prior to setting up and publishing a repository. Until you have completed clearance, include clear language in your repo indicating the current status, something like "**As a first step, this document is under governance review. When the review completes as appropriate per local and agency processes, the project team will be allowed to remove this notice. This material is draft.**" 
+* [ ] Set a meaningful project name, description, and [topics](https://help.github.com/en/github/administering-a-repository/classifying-your-repository-with-topics) to improve discovery and use of your project. For AI-related projects, the [Code.gov Implementation Guidance to Federal Agencies Regarding Enterprise Data and Source Code Inventories](https://code.gov/assets/data/ai_inventory-guidance.pdf) must be followed when setting topics.
+* [ ] Add a readme.md file at the root with a description of your project, the team responsible for the project. This should help users understand how to setup and use your project.
+* [ ] Assign an open source license based on program need. For guidance on licenses, please review the article,  ["Open Source Development for Public Health Informatics"](https://www.philab.cdc.gov/index.php/2012/03/27/open-source-development-for-public-health-informatics/), refer to existing CDCgov projects, or ask for consultation support in choosing a license.
+* [ ] Include the required notice sections in your readme.md to comply with relevant CDC policies and procedures, adapt as necessary based on your program need.
+  * [ ] [Public Domain Standard Notice](https://github.com/CDCgov/template#public-domain-standard-notice)
+  * [ ] [License Standard Notice](https://github.com/CDCgov/template#license-standard-notice)
+  * [ ] [Privacy Standard Notice](https://github.com/CDCgov/template#privacy-standard-notice)
+  * [ ] [Contributing Standard Notice](https://github.com/CDCgov/template#contributing-standard-notice)
+  * [ ] [Records Management Standard Notice](https://github.com/CDCgov/template#records-management-standard-notice)
+  * [ ] [Additional Standard Notices](https://github.com/CDCgov/template#additional-standard-notices)
+* [ ] Include a description of your development process in the readme.md file, if your project is not active, mark it as archived to help users understand that it is not an active project.
+* [ ] If active, enable [GitHub automated security alerts](https://help.github.com/en/github/managing-security-vulnerabilities/about-security-alerts-for-vulnerable-dependencies) and configure notification for the repo admin to see and respond to these alerts in a timely manner. Projects that do not respond to security alerts will have issues raised in their project by admins and may be archived to protect users.
+* [ ] Never commit sensitive information, including usernames, passwords, tokens, PII, PHI. Use pre-commit tools like [Clouseau](https://github.com/cfpb/clouseau) to systematically review material before committing.
+* [ ] Enable issues to allow for administrative and automated issues related to their project.
+* [ ] Respond to issues and PRs created by admins in a timely manner. Ignored issues on your project will result in archiving or deletion.
 
 ## Recommended Practices
 
-* Agree on project conventions and include them in your readme.md. Depending on what type of project, this includes folder structure for data, linters, editor configuration (eg, [MicrobeTrace's .editorconfig](https://github.com/CDCgov/MicrobeTrace/blob/master/.editorconfig)). This will help improve the quality of your project and make it easier for others to contribute to your project.
-* Describe support and community procedures. CDC does not provide warranty or official support for open source projects, but describing how you would like questions and issues will assist users of your project. If you use a wiki, or project board, or package manager, describe and link to that.
-* Include references to publications, presentations, and sites featuring your project.
-* Add an entry to open.cdc.gov to the data, code, api, or event page to help people find your project on cdc.gov
-* Add versions and tags describing major releases and milestones. For example, [open.cdc.gov's releases each time a new version is published to the web site](https://github.com/CDCgov/opencdc/releases/tag/v1.0.9) or [geneflow's changelog](https://github.com/CDCgov/geneflow/blob/master/CHANGELOG.md).
-* Follow [Semantic Versioning 2.0.0](https://semver.org/) when creating versions for your project.
-* Describe and test reproducible practices to install and build your project. For example, [injury_autocoding's code section on running the project's scripts](https://github.com/cdcai/injury_autocoding#code)).
-* Recognize contributors and existing resources that have helped the project. For example, [fdns-ms-hl7-utils' AUTHORS file](https://github.com/CDCgov/fdns-ms-hl7-utils/blob/master/AUTHORS).
-* Automate build and test procedures to reduce the effort of outside contributors to send pull requests (eg, [Travis CI](https://travis-ci.org/), [Circle CI](https://circleci.com/), [GitHub Actions](https://help.github.com/en/actions))
-* Establish pull request templates to make it easier for contributors to send pull requests. For example [SDP-V has a checklist for each PR to match their development practices.](https://github.com/CDCgov/SDP-Vocabulary-Service/blob/master/.github/PULL_REQUEST_TEMPLATE)
-* [Appropriately gather metrics](https://opensource.guide/metrics/) on how your project is used and incorporate this into your feature planning process.
-* [Incorporate documentation into your development cycle](https://github.com/GSA/code-gov-open-source-toolkit/blob/master/toolkit_docs/documentation.md), and where possible, automate the generation of documentation so it is more likely to be up to date and useful to people interested in your project.
+* [ ] Agree on project conventions and include them in your readme.md. Depending on what type of project, this includes folder structure for data, linters, editor configuration (eg, [MicrobeTrace's .editorconfig](https://github.com/CDCgov/MicrobeTrace/blob/master/.editorconfig)). This will help improve the quality of your project and make it easier for others to contribute to your project.
+* [ ] Describe support and community procedures. CDC does not provide warranty or official support for open source projects, but describing how you would like questions and issues will assist users of your project. If you use a wiki, or project board, or package manager, describe and link to that.
+* [ ] Include references to publications, presentations, and sites featuring your project.
+* [ ] Add an entry to open.cdc.gov to the data, code, api, or event page to help people find your project on cdc.gov
+* [ ] Add versions and tags describing major releases and milestones. For example, [open.cdc.gov's releases each time a new version is published to the web site](https://github.com/CDCgov/opencdc/releases/tag/v1.0.9) or [geneflow's changelog](https://github.com/CDCgov/geneflow/blob/master/CHANGELOG.md).
+* [ ] Follow [Semantic Versioning 2.0.0](https://semver.org/) when creating versions for your project.
+* [ ] Describe and test reproducible practices to install and build your project. For example, [injury_autocoding's code section on running the project's scripts](https://github.com/cdcai/injury_autocoding#code)).
+* [ ] Recognize contributors and existing resources that have helped the project. For example, [fdns-ms-hl7-utils' AUTHORS file](https://github.com/CDCgov/fdns-ms-hl7-utils/blob/master/AUTHORS).
+* [ ] Automate build and test procedures to reduce the effort of outside contributors to send pull requests (eg, [Travis CI](https://travis-ci.org/), [Circle CI](https://circleci.com/), [GitHub Actions](https://help.github.com/en/actions))
+* [ ] Establish pull request templates to make it easier for contributors to send pull requests. For example [SDP-V has a checklist for each PR to match their development practices.](https://github.com/CDCgov/SDP-Vocabulary-Service/blob/master/.github/PULL_REQUEST_TEMPLATE)
+* [ ] [Appropriately gather metrics](https://opensource.guide/metrics/) on how your project is used and incorporate this into your feature planning process.
+* [ ] [Incorporate documentation into your development cycle](https://github.com/GSA/code-gov-open-source-toolkit/blob/master/toolkit_docs/documentation.md), and where possible, automate the generation of documentation so it is more likely to be up to date and useful to people interested in your project.
 
 ## Open Source Checklist
 
