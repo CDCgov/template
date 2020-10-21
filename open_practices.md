@@ -15,7 +15,9 @@ Before you can publish your project, you must request access to be added to the 
 
 You should receive an email or notification when you are given access and your first repository should be setup for you. For subsequent projects, you will be able to create a repository in the organization using Github's interface. The [template repository](https://github.com/CDCgov/template) is maintained and an easy way to quick start your repository that complies with the guidelines. Once this is completed you're ready to follow the required guidelines to publish code.
 
-## Required Guidelines to Publish Code
+## Required Practices
+
+You must follow these practices before you publish real code into your repository.
 
 * [ ] **Get Clearance.** Always obtain clearance from your organization prior to setting up and publishing a repository.
   * GitHub is a third party service used by CDC to collaborate with the public. Official CDC health messages will always be distributed through www.cdc.gov and through appropriate channels, so make sure to plan your project along with your official public health program on cdc.gov.
