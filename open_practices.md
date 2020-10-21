@@ -86,7 +86,7 @@ These are helpful links from across the Federal Government regarding open sourci
 * [CFPB Open Tech](https://cfpb.github.io/)
 * [TTS Engineering Practices Guide](https://engineering.18f.gov/)
 * [18F Open Source Policy](https://github.com/18F/open-source-policy) and [Practicing our open source policy](https://github.com/18F/open-source-policy/blob/master/practice.md)
-* [GitHun and Government: How agencies build software](https://government.github.com/)
+* [GitHub and Government: How agencies build software](https://government.github.com/)
 * [code.gov](https://code.gov)
 * [Federal Source Code and Open Source Toolkit](https://github.com/GSA/code-gov-open-source-toolkit)
 * [Federal Source Code Policy (M-16-21)](https://sourcecode.cio.gov/)
