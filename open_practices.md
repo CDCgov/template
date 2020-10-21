@@ -1,8 +1,8 @@
-# CDC GitHub Practices for Open Source Projects
+# CDC GitHub Guidelines for Open Source Projects
 
-**The [CDCGov organization on GitHub](https://github.com/CDCgov) is designated for use by CDC programs to publish open source code.** This is a set of guidelines to help programs release secure and compliant open source projects successfully. If you are interested in using GitHub for non-open source projects, please see information on our [enterprise organization](#cdc-enterprise).
+**The [CDCGov organization on GitHub](https://github.com/CDCgov) is designated for use by CDC programs to publish open source code.** This is a set of practices to help programs release secure and compliant open source projects successfully. If you are interested in using GitHub for non-open source projects, please see information on our [enterprise organization](#cdc-enterprise).
 
-We designed these guidelines to be straightforward and helpful, and we [accept feedback](#support-and-feedback) from the community on updating them. Some practices are [required](#required-practices) and some are [recommended](#recommended-practices). For required practices, projects that don't adhere to them will be contacted by administrators to help them meet the practices. Projects that habitually fail to meet these practices will be [archived](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/archiving-repositories) or removed.
+We designed these practices to be straightforward and helpful, and we [accept feedback](#support-and-feedback) from the community on updating them. Some practices are [required](#required-practices) and some are [recommended](#recommended-practices). For required practices, projects that don't adhere to them will be contacted by administrators to help them meet the practices. Projects that habitually fail to meet these practices will be [archived](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/archiving-repositories) or removed.
 
 ## Getting Started
 
@@ -11,7 +11,7 @@ Before you can publish your project, you must request access to be added to the 
 1. Review the [Rules of Behavior](rules_of_behavior.md).
 2. Confirm your [Github profile is setup](#profile-setup) properly.
 3. Complete the [project request form](https://forms.office.com/Pages/ResponsePage.aspx?id=aQjnnNtg_USr6NJ2cHf8j44WSiOI6uNOvdWse4I-C2NUNk43NzMwODJTRzA4NFpCUk1RRU83RTFNVi4u).
-  * This will require your CDC login, so if you don't have a login, please find someone who does and ask them to request on your behalf, or just [submit an issue](https://github.com/CDCgov/template/issues).
+   * This will require your CDC login, so if you don't have a login, ask someone to request on your behalf, or [get in touch](#support-and-feedback).
 
 You should receive an email or notification when you are given access and your first repository should be setup for you. For subsequent projects, you will be able to create a repository in the organization using Github's interface. The [template repository](https://github.com/CDCgov/template) is maintained and an easy way to quick start your repository that complies with the guidelines. Once this is completed you're ready to follow the required guidelines to publish code.
 
