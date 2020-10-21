@@ -68,7 +68,7 @@ If you need additional support with your setting up project, or have any feedbac
 
 ### Non-Compliance Procedure
 
-Projects in this organization are reviewed occasionally for compliance with the [Required Practices](#required-practices). If your project is found to not be in compliance, will be contacted by administrators to help them meet the practices. Projects that do not responsed habitually fail to meet these practices will be archived or removed.
+Projects in this organization are reviewed occasionally for compliance with the [Required Practices](#required-practices). If your project is found to not be in compliance, you will be contacted by administrators to help them meet the practices. Projects that do not respond or that habitually fail to meet these practices will be archived or removed from the organization, depending on severity.
 
 ### Profile Setup
 
