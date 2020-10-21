@@ -2,7 +2,7 @@
 
 **The [CDCGov organization on GitHub](https://github.com/CDCgov) is designated for use by CDC programs to publish open source code.** This is a set of practices to help programs release secure and compliant open source projects successfully. If you are interested in using GitHub for non-open source projects, please see information on our [enterprise organization](#cdc-enterprise).
 
-We designed these practices to be straightforward and helpful, and we [accept feedback](#support-and-feedback) from the community on updating them. Some practices are [required](#required-practices) and some are [recommended](#recommended-practices). For required practices, projects that don't adhere to them will be contacted by administrators to help them meet the practices. Projects that habitually fail to meet these practices will be [archived](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/archiving-repositories) or removed.
+We designed these practices to be straightforward and helpful, and we [accept feedback](#support-and-feedback) from the community on updating them. For [Required Practices](#required-practices), Projects that don't adhere to the [Required Practices](#required-practices) could be subject to [archival or removal](#non-compliance-procedure).
 
 ## Getting Started
 
@@ -39,7 +39,7 @@ You should receive an email or notification when you are given access and your f
   * Never commit sensitive information, including usernames, passwords, tokens, PII, PHI. To automate this, you can integrate pre-commit tools like [Clouseau](https://github.com/cfpb/clouseau) to systematically review material before committing.
     * Make sure that the commit history of your Github repository also doesn't have these things. In many cases it's easier to start a new repository and push up the code that has all sensitive information removed as the first commit.
   * Enable [GitHub automated security alerts](https://help.github.com/en/github/managing-security-vulnerabilities/about-security-alerts-for-vulnerable-dependencies) and configure notification for the repo admin to see.
-* [ ] **Respond to critical security issues and communication from CDCgov administrators as they come up.** Ignored security or administrative issues on your project will result in archiving or removal.
+* [ ] **Respond to critical security issues and communication from administrators.** Ignoring security issues or not responding to communication from administrators can result in [archiving or removal](#non-compliance-procedure).
 * [ ] **Archive old projects.** If you're no longer updating the project or have moved it's location, update the README to let users know and [archive the repository](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/archiving-repositories).
 
 ## Recommended Practices
@@ -60,11 +60,15 @@ Optional improvements to make your open source project more successful.
 * [ ] [Appropriately gather metrics](https://opensource.guide/metrics/) on how your project is used and incorporate this into your feature planning process.
 * [ ] [Incorporate documentation into your development cycle](https://github.com/GSA/code-gov-open-source-toolkit/blob/master/toolkit_docs/documentation.md), and where possible, automate the generation of documentation so it is more likely to be up to date and useful to people interested in your project.
 
-## Resources
+## Guidance
 
 ### Support and Feedback
 
 If you need additional support with your setting up project, or have any feedback or ideas please [open an issue](https://github.com/CDCgov/template/issues) or send an email to [data@cdc.gov](mailto:data@cdc.gov). We also accept pull requests if you want to directly edit the guidance.
+
+### Non-Compliance Procedure
+
+Projects in this organization are reviewed occasionally for compliance with the [Required Practices](#required-practices). If your project is found to not be in compliance, will be contacted by administrators to help them meet the practices. Projects that do not responsed habitually fail to meet these practices will be archived or removed.
 
 ### Profile Setup
 
