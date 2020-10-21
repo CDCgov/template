@@ -4,7 +4,7 @@ The CDCGov organization on GitHub is designed for use by CDC programs to collabo
 
 This is a collection of practices to help programs design projects and collaborate with diverse communities looking to find, use, and contribute to open science.
 
-We designed these practices to be intuitive, helpful, and evolving based on program and community input. Some practices are required and some are recommended. For required practices, projects that don't adhere to them will be contacted by administrators to help them meet the practices. Projects that habitually fail to  meet these practices will be archived or made private. That has never happened, but we want to make sure CDC's projects are usable.
+We designed these practices to be intuitive, helpful, and evolving based on program and community input. Some practices are required and some are recommended. For required practices, projects that don't adhere to them will be contacted by administrators to help them meet the practices. Projects that habitually fail to  meet these practices will be [archived](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/archiving-repositories) or made private. That has never happened, but we want to make sure CDC's projects are usable.
 
 ## Requesting Access
 
@@ -35,8 +35,8 @@ If you are interested in using GitHub for non-open source projects, please check
   * [ ] [Contributing Standard Notice](https://github.com/CDCgov/template#contributing-standard-notice)
   * [ ] [Records Management Standard Notice](https://github.com/CDCgov/template#records-management-standard-notice)
   * [ ] [Additional Standard Notices](https://github.com/CDCgov/template#additional-standard-notices)
-* [ ] Include a description of your development process in the readme.md file, if your project is not active, mark it as archived to help users understand that it is not an active project.
-* [ ] If active, enable [GitHub automated security alerts](https://help.github.com/en/github/managing-security-vulnerabilities/about-security-alerts-for-vulnerable-dependencies) and configure notification for the repo admin to see and respond to these alerts in a timely manner. Projects that do not respond to security alerts will have issues raised in their project by admins and may be archived to protect users.
+* [ ] Include a description of your development process in the readme.md file, if your project is not active, mark it as [archived](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/archiving-repositories) to help users understand that it is not an active project.
+* [ ] If active, enable [GitHub automated security alerts](https://help.github.com/en/github/managing-security-vulnerabilities/about-security-alerts-for-vulnerable-dependencies) and configure notification for the repo admin to see and respond to these alerts in a timely manner. Projects that do not respond to security alerts will have issues raised in their project by admins and may be [archived](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/archiving-repositories) to protect users.
 * [ ] Never commit sensitive information, including usernames, passwords, tokens, PII, PHI. Use pre-commit tools like [Clouseau](https://github.com/cfpb/clouseau) to systematically review material before committing.
 * [ ] Enable issues to allow for administrative and automated issues related to their project.
 * [ ] Respond to issues and PRs created by admins in a timely manner. Ignored issues on your project will result in archiving or deletion.
@@ -68,7 +68,7 @@ This checklist was adapted from the CDC IT Guard Rail and put here to help peopl
 * [ ] After approval, create a GitHub user.
 * [ ] Fill out the [Request a Repo form](https://forms.office.com/Pages/ResponsePage.aspx?id=aQjnnNtg_USr6NJ2cHf8j44WSiOI6uNOvdWse4I-C2NUNk43NzMwODJTRzA4NFpCUk1RRU83RTFNVi4u) for a new repo on [CDCGov](https://github.com/cdcgov) or [CDCai](https://github.com/cdcai).
 * [ ] When you get an email or push alert that your repo is ready, push to GitHub
-* [ ] Keep your project up to date, when you're finished flag it as [archived](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/archiving-repositories).
+* [ ] Keep your project up to date, when you're finished flag it as [archived](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/archiving-repositories).
 
 ## Questions or Recommendations
 
