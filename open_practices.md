@@ -64,20 +64,20 @@ Optional improvements to make your open source project more successful.
 
 ### Support and Feedback
 
-If you need additional support with your setting up project, or have any feedback or ideas please [open an issue](https://github.com/CDCgov/template/issues) or send an email to [data@cdc.gov](mailto:data@cdc.gov). We also accept pull requests if you want to directly edit the guidance.
+If you need additional support with your setting up project, or have any feedback or ideas about this guidance please [open an issue](https://github.com/CDCgov/template/issues) or send an email to [data@cdc.gov](mailto:data@cdc.gov). We also accept pull requests if you want to directly edit the guidance.
 
 ### Non-Compliance Procedure
 
-Projects in this organization are reviewed occasionally for compliance with the [Required Practices](#required-practices). If your project is found to not be in compliance, you will be contacted by administrators to help them meet the practices. Projects that do not respond or that habitually fail to meet these practices will be archived or removed from the organization, depending on severity.
+Projects in this organization are reviewed occasionally for compliance with the [Required Practices](#required-practices). If your project is found to not be in compliance, you will be contacted by administrators to help bring your project into compliance. Projects that do not respond or that habitually fail to meet these practices will be archived or removed from the organization, depending on severity.
 
 ### Profile Setup
 
-As a member of a CDC GitHub organization, please make sure your profile is set up properly to help us work better together. Specifically, please keep your profile page up to date with:
+Please make sure your profile is set up properly to help us work better together. Specifically, keep your profile up to date with:
 
-* Name: Your first and last name.
-* Company: Your government agency. (If you also use GitHub for personal projects, consider specifying “CDC (work) + personal projects” to make it clear that some of your GitHub projects may be personal in nature.)
-* Location: Your primary work location (city, state).
-* Photo: A headshot photo, or an image that is unique to you.
+* **Name:** Your first and last name.
+* **Company:** Your government agency or contracting company. (If you also use GitHub for personal projects, consider specifying “CDC (work) + personal projects” to make it clear that some of your GitHub projects may be personal in nature.)
+* **Location:** Your primary work location (city, state).
+* **Photo:** A headshot photo, or an appropriate image that is unique to you.
 
 ### CDC Enterprise
 
