@@ -42,8 +42,9 @@ You must follow these practices before you publish real code into your repositor
   * Never commit sensitive information, including usernames, passwords, tokens, PII, PHI. To automate this, you can integrate pre-commit tools like [Clouseau](https://github.com/cfpb/clouseau) to systematically review material before committing.
     * Make sure that the commit history of your Github repository also doesn't have these things. In many cases it's easier to start a new repository and push up the code that has all sensitive information removed as the first commit.
   * Enable [GitHub automated security alerts](https://help.github.com/en/github/managing-security-vulnerabilities/about-security-alerts-for-vulnerable-dependencies) and configure notification for the repo admin to see.
-* [ ] **Maintain your repository.**
-  * Once your repository is published, you must do the following to remain in compliance:
+* [ ] **Setup your profile.** [Active project committers need to add profile info to help collaboration.](#profile-setup)
+  * [ ] **Two-factor authentication (2FA).** [Project admins must secure their account with two-factor-authentication.](https://docs.github.com/en/enterprise-server@2.21/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa)
+* [ ] **Maintain your repository.** Once your repository is published, you must do the following to remain in compliance:
   * [ ] **Respond to critical security issues and communication from administrators.** Ignoring security issues or not responding to communication from administrators can result in [archiving or removal](#non-compliance-procedure).
   * [ ] **Archive old projects.** If you're no longer updating the project or have moved it's location, update your `README.md` file to let users know and [archive the repository](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/archiving-repositories).
 
@@ -82,6 +83,8 @@ Please make sure your profile is set up properly to help us work better together
 * **Company:** Your government agency or contracting company. (If you also use GitHub for personal projects, consider specifying “CDC (work) + personal projects” to make it clear that some of your GitHub projects may be personal in nature.)
 * **Location:** Your primary work location (city, state).
 * **Photo:** A headshot photo, or an appropriate image that is unique to you.
+
+If you admin any projects, make sure to [secure your account with two-factor authentication (2FA)](https://docs.github.com/en/enterprise-server@2.21/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa). Although you probably already did this because you are smart.
 
 ### Open Source Checklist
 
