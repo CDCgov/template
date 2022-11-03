@@ -12,6 +12,7 @@ assignees: ''
 * [ ] Question
 * [ ] New Repo
 * [ ] Delete Repo
+* [ ] User Membership
 * [ ] Other
 
 **Please describe how you'd like us to help.**
