@@ -8,7 +8,7 @@ to create solutions for the challenges we face.
 
 This is our code of conduct (adapted from [18F's Code of Conduct](https://github.com/18F/code-of-conduct)).
 We follow all Equal Employment Opportunity laws and we expect everyone we work
-with to adhere to the [GSA Anti-harrasment Policy](http://www.gsa.gov/portal/directive/d0/content/512516),
+with to adhere to the [GSA Anti-harassment Policy](http://www.gsa.gov/portal/directive/d0/content/512516),
 even if they do not work for the Centers for Disease Control and Prevention or
 GSA. We expect every user to follow this code of conduct and the laws and
 policies mentioned above.
@@ -53,7 +53,7 @@ thinking or behavior is the norm for everyone.
 
 ### Here are some examples of unacceptable behavior
  * Negative or offensive remarks based on the protected classes as listed in the
-   GSA Anti-harrasment Policy of race, religion, color, sex, national origin,
+   GSA Anti-harassment Policy of race, religion, color, sex, national origin,
    age, disability, genetric information, sexual orientation, gender identity,
    parental status, maritual status, and political affiliation as well as gender
    expression, mental illness, socioeconomic status or backgrounds,
@@ -61,7 +61,7 @@ thinking or behavior is the norm for everyone.
    that calling attention to differences can feel alienating.
  * Sustained disruption of meetings, talks, or discussions, including chatrooms.
  * Patronizing language or behavior.
- * Aggresive behavior, such as unconstructive criticism, providing correction
+ * Aggressive behavior, such as unconstructive criticism, providing correction
    that do not improve the conversation (sometimes referred to as "well
    actually's"), repeatedly interrupting or talking over someone else, feigning
    surprise at someone's lack of knowledge or awareness about a topic, or subtle
