@@ -34,7 +34,7 @@ You must follow these practices before you publish real code into your repositor
     * [ ] [Records Management Standard Notice](https://github.com/CDCgov/template#records-management-standard-notice)
     * [ ] [Additional Standard Notices](https://github.com/CDCgov/template#additional-standard-notices)
 * [ ] **Choose a license.** Assign an open source license based on program need.
-  * If you need help choosing a license, please review [this article](https://www.philab.cdc.gov/index.php/2012/03/27/open-source-development-for-public-health-informatics/), refer to existing CDCgov projects, or ask for consultation support in choosing a license.
+  * If you need help choosing a license, please review [this article](https://web.archive.org/web/20250306075939/https://www.techlab.cdc.gov/index.php/2012/03/27/open-source-development-for-public-health-informatics-historical-archive/), refer to existing CDCgov projects, or ask for consultation support in choosing a license.
 * [ ] **Security scanning and review.**
   * **This is the final step before publishing and the most critical.**
   * All source code used within CDC systems must comply with all cybersecurity processes prior to production use, including static and dynamic scanning. The same applies to code published as open source.
