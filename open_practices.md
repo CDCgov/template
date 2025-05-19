@@ -10,7 +10,7 @@ Before you can publish your project, you must request access to be added to the 
 
 1. Review the [Rules of Behavior](rules_of_behavior.md).
 2. Confirm your [Github profile is setup](#profile-setup) properly.
-3. Complete the [project request form](https://forms.office.com/Pages/ResponsePage.aspx?id=aQjnnNtg_USr6NJ2cHf8j44WSiOI6uNOvdWse4I-C2NUNk43NzMwODJTRzA4NFpCUk1RRU83RTFNVi4u).
+3. Complete the [project request form]([https://forms.office.com/Pages/ResponsePage.aspx?id=aQjnnNtg_USr6NJ2cHf8j44WSiOI6uNOvdWse4I-C2NUNk43NzMwODJTRzA4NFpCUk1RRU83RTFNVi4u](https://servicedesk.cdc.gov/sp?id=sc_cat_item&sys_id=ca066a881b11f8102954873fe54bcb4a)).
    * This will require your CDC login, so if you don't have a login, ask someone to request on your behalf, or [get in touch](#support-and-feedback).
 
 You should receive an email or notification when you are given access and your first repository should be setup for you. For subsequent projects, you will be able to create a repository in the organization using Github's interface. The [template repository](https://github.com/CDCgov/template) is maintained and an easy way to quick start your repository that complies with the guidelines. Once this is completed you're ready to follow the required guidelines to publish code.
