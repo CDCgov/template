@@ -34,7 +34,7 @@ You must follow these practices before you publish real code into your repositor
     * [ ] [Records Management Standard Notice](https://github.com/CDCgov/template#records-management-standard-notice)
     * [ ] [Additional Standard Notices](https://github.com/CDCgov/template#additional-standard-notices)
 * [ ] **Choose a license.** Assign an open source license based on program need.
-  * If you need help choosing a license, please review [this article](https://web.archive.org/web/20250306075939/https://www.techlab.cdc.gov/index.php/2012/03/27/open-source-development-for-public-health-informatics-historical-archive/), refer to existing CDCgov projects, or ask for consultation support in choosing a license.
+  * If you need help choosing a license, please review [this article](https://web.archive.org/web/20200808171549/https://www.philab.cdc.gov/index.php/2012/03/27/open-source-development-for-public-health-informatics/), refer to existing CDCgov projects, or ask for consultation support in choosing a license.
 * [ ] **Security scanning and review.**
   * **This is the final step before publishing and the most critical.**
   * All source code used within CDC systems must comply with all cybersecurity processes prior to production use, including static and dynamic scanning. The same applies to code published as open source.
@@ -92,20 +92,19 @@ So you've decided to set up an open source project at CDC. Here are the steps to
 
 * [ ] Create a new project using the [template repo](https://github.com/CDCgov/template).
 * [ ] Update your readme.md following the [CDC GitHub Practices for Open Source Projects](https://github.com/CDCgov/template/blob/master/open_practices.md)
-* [ ] Choose a license. Most projects are ASL2, but license should meet public health program need. See <https://www.philab.cdc.gov/index.php/2012/03/27/open-source-development-for-public-health-informatics/> for more info on choosing a license.
+* [ ] Choose a license. Most projects are ASL2, but license should meet public health program need. See <https://web.archive.org/web/20200808171549/https://www.philab.cdc.gov/index.php/2012/03/27/open-source-development-for-public-health-informatics/> for more info on choosing a license.
 * [ ] Remove all sensitive info.
-* [ ] Talk with your ADI, ADS, and ISSO for review and clearance.
+* [ ] Talk with your ADI, ADS, and SSPO for review and clearance.
 * [ ] After approval, create a GitHub user.
 * [ ] Fill out the [Request a Repo form](https://servicedesk.cdc.gov/sp?id=sc_cat_item&sys_id=ca066a881b11f8102954873fe54bcb4a) for a new repo on [CDCGov](https://github.com/cdcgov) or [CDCai](https://github.com/cdcai).
 * [ ] When you get an email or push alert that your repo is ready, push to GitHub
-* [ ] Add an entry in [open.cdc.gov](https://open.cdc.gov) on their [code page](https://open.cdc.gov/code.html) to officially be linked from cdc.gov. This helps users find and use your project.
 * [ ] Keep your project up to date, when you're finished flag it as [archived](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/archiving-repositories).
 
 _This checklist was adapted from the CDC IT Guard Rail and put here to help people who don't have access to the intranet._
 
 ### CDC Enterprise
 
-Our [CDCent](https://github.com/cdcent/) organization is used for private, non-public projects so only CDC staff and approved outside collaborators work on these projects, you can request access through the [GitHub Enterprise Cloud form](https://forms.office.com/Pages/ResponsePage.aspx?id=aQjnnNtg_USr6NJ2cHf8j44WSiOI6uNOvdWse4I-C2NUQjVJVDlKS1c0SlhQSUxLNVBaOEZCNUczVS4u).
+Our [CDCent](https://github.com/cdcent/) organization is used for private, non-public projects so only CDC staff and approved outside collaborators work on these projects, you can request access through the [GitHub Enterprise Cloud form](https://servicedesk.cdc.gov/sp?id=sc_cat_item&sys_id=ca066a881b11f8102954873fe54bcb4a).
 
 ### Reference Links
 
