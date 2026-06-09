@@ -10,7 +10,7 @@ Before you can publish your project, you must request access to be added to the 
 
 1. Review the [Rules of Behavior](rules_of_behavior.md).
 2. Confirm your [Github profile is setup](#profile-setup) properly.
-3. Complete the [project request form]([https://forms.office.com/Pages/ResponsePage.aspx?id=aQjnnNtg_USr6NJ2cHf8j44WSiOI6uNOvdWse4I-C2NUNk43NzMwODJTRzA4NFpCUk1RRU83RTFNVi4u](https://servicedesk.cdc.gov/sp?id=sc_cat_item&sys_id=ca066a881b11f8102954873fe54bcb4a)).
+3. Complete the [project request form](https://servicedesk.cdc.gov/sp?id=sc_cat_item&sys_id=ca066a881b11f8102954873fe54bcb4a).
    * This will require your CDC login, so if you don't have a login, ask someone to request on your behalf, or [get in touch](#support-and-feedback).
 
 You should receive an email or notification when you are given access and your first repository should be setup for you. For subsequent projects, you will be able to create a repository in the organization using Github's interface. The [template repository](https://github.com/CDCgov/template) is maintained and an easy way to quick start your repository that complies with the guidelines. Once this is completed you're ready to follow the required guidelines to publish code.
@@ -96,7 +96,7 @@ So you've decided to set up an open source project at CDC. Here are the steps to
 * [ ] Remove all sensitive info.
 * [ ] Talk with your ADI, ADS, and ISSO for review and clearance.
 * [ ] After approval, create a GitHub user.
-* [ ] Fill out the [Request a Repo form](https://forms.office.com/Pages/ResponsePage.aspx?id=aQjnnNtg_USr6NJ2cHf8j44WSiOI6uNOvdWse4I-C2NUNk43NzMwODJTRzA4NFpCUk1RRU83RTFNVi4u) for a new repo on [CDCGov](https://github.com/cdcgov) or [CDCai](https://github.com/cdcai).
+* [ ] Fill out the [Request a Repo form](https://servicedesk.cdc.gov/sp?id=sc_cat_item&sys_id=ca066a881b11f8102954873fe54bcb4a) for a new repo on [CDCGov](https://github.com/cdcgov) or [CDCai](https://github.com/cdcai).
 * [ ] When you get an email or push alert that your repo is ready, push to GitHub
 * [ ] Add an entry in [open.cdc.gov](https://open.cdc.gov) on their [code page](https://open.cdc.gov/code.html) to officially be linked from cdc.gov. This helps users find and use your project.
 * [ ] Keep your project up to date, when you're finished flag it as [archived](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/archiving-repositories).
