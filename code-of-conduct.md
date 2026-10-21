@@ -54,8 +54,8 @@ thinking or behavior is the norm for everyone.
 ### Here are some examples of unacceptable behavior
  * Negative or offensive remarks based on the protected classes as listed in the
    GSA Anti-harassment Policy of race, religion, color, sex, national origin,
-   age, disability, genetric information, sexual orientation, gender identity,
-   parental status, maritual status, and political affiliation as well as gender
+   age, disability, genetic information, sexual orientation, gender identity,
+   parental status, marital status, and political affiliation as well as gender
    expression, mental illness, socioeconomic status or backgrounds,
    neuro(a)typicality, physical appearance, body size, or clothing. Consider
    that calling attention to differences can feel alienating.
