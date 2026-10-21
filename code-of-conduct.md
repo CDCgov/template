@@ -6,9 +6,9 @@ diversity of all kinds, not just the classes protected in law. Diversity fosters
 innovation. Diverse teams are creative teams. We need a diversity of perspective
 to create solutions for the challenges we face.
 
-This is our code of conduct (adapted from [18F's Code of Conduct](https://github.com/18F/code-of-conduct)).
+This is our code of conduct (adapted from [18F's Code of Conduct](https://web.archive.org/web/20250217154509/https://github.com/18F/code-of-conduct)).
 We follow all Equal Employment Opportunity laws and we expect everyone we work
-with to adhere to the [GSA Anti-harassment Policy](http://www.gsa.gov/portal/directive/d0/content/512516),
+with to adhere to the [GSA Anti-harassment Policy](https://www.gsa.gov/directives-library/general-services-administration-gsa-policy-statement-on-harassment-including-sexual-and-nonsexual),
 even if they do not work for the Centers for Disease Control and Prevention or
 GSA. We expect every user to follow this code of conduct and the laws and
 policies mentioned above.
@@ -87,17 +87,17 @@ others deemed as necessary.
 For those individuals within the CDC, adherence to the following policies are
 required:
 * CDC ["Clearance of Information Products Disseminated Outside CDC for Public Use"](http://www.cdc.gov/maso/Policy/PublicUse.pdf)
-* HHS ["Ensuring the Quality of Information Disseminated by HHS agencies"](http://aspe.hhs.gov/infoquality)
+* HHS ["Ensuring the Quality of Information Disseminated by HHS agencies"](https://aspe.hhs.gov/topics/data/information-quality-guidelines)
 
 All collaborative materials will be controlled by the rules contained within
 this document. This will allow for the real-time collaboration opportunities
 among CDC employees, CDC contractors and CDC public health partners.
 
 ## Credit
-This code of conduct was mainly adapted from [18F's Code of Conduct](https://github.com/18F/code-of-conduct)
-and the [CDC's Informatics Innovation Unit R&D Lab's code of conduct.](https://www.philab.cdc.gov/index.php/code-of-conduct/)
+This code of conduct was mainly adapted from [18F's Code of Conduct](https://web.archive.org/web/20250217154509/https://github.com/18F/code-of-conduct)
+and the [CDC's Informatics Innovation Unit R&D Lab's code of conduct.](https://web.archive.org/web/20230324094704/https://www.philab.cdc.gov/index.php/code-of-conduct/)
 
 ## Relevant Legal Considerations
-* [Laws enforced by the Equal Employment Opportunity Commission](http://www.eeoc.gov/laws/statutes/index.cfm)
-* [Types of discrimination prohibited by law](http://www.eeoc.gov/laws/types)
-* [New and proposed regulations](http://www.eeoc.gov/laws/regulations/index.cfm)
+* [Laws enforced by the Equal Employment Opportunity Commission](https://www.eeoc.gov/laws)
+* [Types of discrimination prohibited by law](https://www.eeoc.gov/prohibited-employment-policiespractices)
+* [New and proposed regulations](https://www.eeoc.gov/regulations-and-guidelines)
