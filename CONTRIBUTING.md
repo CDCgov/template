@@ -7,9 +7,9 @@ collaborative environment.
 
 Before contributing, we encourage you to also read our [LICENSE](LICENSE),
 [README](README.md), and
-[code-of-conduct](code-of-conduct.md)
+[code-of-conduct](https://github.com/CDCgov/template/blob/main/code-of-conduct.md)
 files, also found in this repository. If you have any inquiries or questions not
-answered by the content of this repository, feel free to [contact us](mailto:surveillanceplatform@cdc.gov).
+answered by the content of this repository, feel free to [contact us](../../issues/new/choose).
 
 ## Public Domain
 
@@ -21,8 +21,8 @@ copyright interest.
 
 ## Requesting Changes
 
-Our pull request/merging process is designed to give the CDC Surveillance Team
-and other in our space an opportunity to consider and discuss any suggested
+Our pull request/merging process is designed to give the project
+and others in our space an opportunity to consider and discuss any suggested
 changes. This policy affects all CDC spaces, both on-line and off, and all users
 are expected to abide by it.
 
